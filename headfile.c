@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello Eveeryone 1");
+    printf("Hello Eveeryone !");
+    printf("\nThis is c language code.");
     return 0;
 }
